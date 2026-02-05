@@ -1,2 +1,3 @@
-This is a simple chatbot app using react js. 
-You can interact with the robot and it may have answer to yyour question or not. 
+A simple chatbot application built with React.js that allows users
+to interact with an AI-powered robot. The chatbot responds to user
+when possible and gracefully handles unknown queries.
